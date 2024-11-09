@@ -1,0 +1,43 @@
+---Region: Metropolitana
+Inmueble 1
+ -Nombre: Departamento en Edificio Proviplaza
+ -Descripcion: Cercano a varios lugares de entretención y servicios
+Inmueble 2
+ -Nombre: Departamento en Edificio Ñuñoa Park
+ -Descripcion: Atractiva vista, cercano al Metro y próximo a locales comerciales varios 
+
+---Region: Valparaíso
+Inmueble 1
+ -Nombre: Departamento en Edificio Euro Viña
+ -Descripcion: Amplio, buen lugar para vivir, con buena locomoción y próximo a la playa
+
+---Region: Coquimbo
+Inmueble 1
+ -Nombre: Parcela en La Serena
+ -Descripcion: Amplia parcela cerca de la carretera con acceso a servicio de luz y agua potable con 3 habitaciones y dos baños
+
+---Region: O’Higgins
+Inmueble 1
+ -Nombre: Parcela en Rancagua
+ -Descripcion: Parcela de agrado, sector muy tranquilo, seguro y rodeado de naturaleza
+
+---Region: Ñuble
+Inmueble 1
+ -Nombre: Parcela en Chillán
+ -Descripcion: Parcela en condominio privado tranquilo, a minutos de Panamericana Norte con excelente conectividad al centro, colegios, accesos norte y sur de la ciudad
+
+---Region: Araucanía
+Inmueble 1
+ -Nombre: Casa en Temuco
+ -Descripcion: Cercano al hospital y centro de Temuco con gran servicio de locomoción local.
+
+---Region: Los Ríos
+Inmueble 1
+ -Nombre: Casa en Valdivia
+ -Descripcion: Ofrece un entorno cómodo, acogedor y atractivo por su belleza natural y ambiente tranquilo
+
+---Region: Tarapacá
+Inmueble 1
+ -Nombre: Casa en Iquique
+ -Descripcion: Sector cercano a la playa, universidades y de alta conectividad con la ciudad
+

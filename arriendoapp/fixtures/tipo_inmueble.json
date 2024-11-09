@@ -1,0 +1,30 @@
+[
+    {
+        "model": "arriendoapp.tipoinmueble",
+        "pk": 1,
+        "fields": {
+            "nombre": "Departamento"
+        }
+    },
+
+    {
+        "model": "arriendoapp.tipoinmueble",
+        "pk": 2,
+        "fields": {
+            "nombre": "Parcela"
+        }
+    },
+
+    {
+        "model": "arriendoapp.tipoinmueble",
+        "pk": 3,
+        "fields": {
+            "nombre": "Casa"
+        }
+    }
+
+
+
+
+
+]

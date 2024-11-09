@@ -1,0 +1,190 @@
+[
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 1,
+        "fields": {
+            "nombre": "Departamento en Edificio Proviplaza",
+            "descripcion": "Cercano a varios lugares de entretención y servicios",
+            "m2_construidos": 100,
+            "m2_totales": 120,
+            "estacionamientos": 1,
+            "habitaciones": 2,
+            "banos": 1,
+            "direccion": "Las Urbinas 2050",
+            "region": 16,
+            "comuna": 316,
+            "tipo_inmueble": 1,
+            "precio_mensual": 750000,
+            "arrendador": 3
+        }
+    },
+
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 2,
+        "fields": {
+            "nombre": "Departamento en Edificio Euro Viña",
+            "descripcion": "Amplio, buen lugar para vivir, con buena locomoción y próximo a la playa",
+            "m2_construidos": 120,
+            "m2_totales": 200,
+            "estacionamientos": 2,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Avenida La Costa 37",
+            "region": 6,
+            "comuna": 51,
+            "tipo_inmueble": 1,
+            "precio_mensual": 900000,
+            "arrendador": 4
+        }
+    },
+
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 3,
+        "fields": {
+            "nombre": "Departamento en Edificio Ñuñoa Park",
+            "descripcion": "Atractiva vista, cercano al Metro y próximo a locales comerciales varios",
+            "m2_construidos": 150,
+            "m2_totales": 230,
+            "estacionamientos": 2,
+            "habitaciones": 2,
+            "banos": 2,
+            "direccion": "Coventry 65",
+            "region": 16,
+            "comuna": 313,
+            "tipo_inmueble": 1,
+            "precio_mensual": 700000,
+            "arrendador": 5  
+        }
+    },
+   
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 4,
+        "fields": {
+            "nombre": "Parcela en La Serena",
+            "descripcion": "Amplia parcela cerca de la carretera con acceso a servicio de luz y agua potable",
+            "m2_construidos": 400,
+            "m2_totales": 5000,
+            "estacionamientos": 5,
+            "habitaciones": 5,
+            "banos": 3,
+            "direccion": "Parcela lote número 27",
+            "region": 5,
+            "comuna": 30,
+            "tipo_inmueble": 2,
+            "precio_mensual": 2000000,
+            "arrendador": 3
+      
+        }
+    },
+
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 5,
+        "fields": {
+            "nombre": "Parcela en Rancagua",
+            "descripcion": "Parcela de agrado, sector muy tranquilo, seguro y rodeado de naturaleza",
+            "m2_construidos": 260,
+            "m2_totales": 5000,
+            "estacionamientos": 3,
+            "habitaciones": 4,
+            "banos": 3,
+            "direccion": "Campesinos 180",
+            "region": 7,
+            "comuna": 83,
+            "tipo_inmueble": 2,
+            "precio_mensual": 1500000,
+            "arrendador": 4
+      
+        }
+    },
+
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 6,
+        "fields": {
+            "nombre": "Parcela en Chillán",
+            "descripcion": "Parcela en condominio privado tranquilo, a minutos de Panamericana Norte con excelente conectividad al centro, colegios, accesos norte y sur de la ciudad",
+            "m2_construidos": 470,
+            "m2_totales": 5500,
+            "estacionamientos": 6,
+            "habitaciones": 5,
+            "banos": 5,
+            "direccion": "Km. 9 Camino a Pinto",
+            "region": 9,
+            "comuna": 155,
+            "tipo_inmueble": 2,
+            "precio_mensual": 2400000,
+            "arrendador": 5
+            
+      
+        }
+    },
+
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 7,
+        "fields": {
+            "nombre": "Casa en Temuco",
+            "descripcion": "Cercano al hospital y centro de Temuco con gran servicio de locomoción local.",
+            "m2_construidos": 120,
+            "m2_totales": 300,
+            "estacionamientos": 1,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Prieto Norte 345",
+            "region": 11,
+            "comuna": 200,
+            "tipo_inmueble": 3,
+            "precio_mensual": 600000,
+            "arrendador": 3   
+
+        }
+    },
+
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 8,
+        "fields": {
+            "nombre": "Casa en Valdivia",
+            "descripcion": "Ofrece un entorno cómodo, acogedor y atractivo por su belleza natural y ambiente tranquilo",
+            "m2_construidos": 90,
+            "m2_totales": 250,
+            "estacionamientos": 1,
+            "habitaciones": 3,
+            "banos": 3,
+            "direccion": "Villa Reina Isabel 35",
+            "region": 12,
+            "comuna": 232,
+            "tipo_inmueble": 3,
+            "precio_mensual": 700000,
+            "arrendador": 4
+
+        }
+    },
+
+    {
+        "model": "arriendoapp.inmueble",
+        "pk": 9,
+        "fields": {
+            "nombre": "Casa en Iquique",
+            "descripcion": "Sector cercano a la playa, universidades y de alta conectividad con la ciudad",
+            "m2_construidos": 250,
+            "m2_totales": 390,
+            "estacionamientos": 5,
+            "habitaciones": 5,
+            "banos": 4,
+            "direccion": "Playa Brava 3400",
+            "region": 2,
+            "comuna": 5,
+            "tipo_inmueble": 3,
+            "precio_mensual": 1500000,
+            "arrendador": 5
+        }
+    }
+
+
+]
+    
